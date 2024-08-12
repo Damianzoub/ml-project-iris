@@ -44,3 +44,6 @@ the metrics that we used to evaluate the models are :
 
 Dataset Link:
 https://archive.ics.uci.edu/dataset/53/iris
+
+IMPORTANT NOTE!
+the iris.data contains the data of the dataset you to download it and implement it to the notebook so that the notebook can continue
